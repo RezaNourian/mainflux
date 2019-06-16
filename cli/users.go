@@ -1,6 +1,6 @@
 //
 // Copyright (c) 2018
-// Mainflux
+// Mainfluxees
 //
 // SPDX-License-Identifier: Apache-2.0
 //
