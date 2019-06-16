@@ -16,7 +16,7 @@ import (
 )
 
 var (
-	// Limit query parameters
+	// Limit query parameter
 	Limit uint = 10
 	// Offset query parameter
 	Offset uint = 0
